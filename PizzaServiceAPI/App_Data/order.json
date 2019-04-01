@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "customerId": 1,
+    "customerName": "Pepito",
+    "userId": 1,
+    "status": 1
+  },
+  {
+    "id": 2,
+    "customerId": 2,
+    "customerName": "Juan",
+    "userId": 1,
+    "status": 1
+  },
+  {
+    "id": 3,
+    "customerId": 3,
+    "customerName": "Pablo",
+    "userId": 1,
+    "status": 1
+  }
+]
